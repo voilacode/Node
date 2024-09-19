@@ -41,6 +41,7 @@ cd app
 Run the following command to install all required packages:
 
 npm install
+npm install ejs express
 
 ### **3. Run the Application**
 Start the application by running:
