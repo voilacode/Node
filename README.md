@@ -33,16 +33,19 @@ Getting Started
 Follow these steps to get the project running on your local machine.
 
 ### **1. Clone the Repository**
-git clone <repository-url>
+git clone https://github.com/voilacode/Node.git
+
 cd app
 
 ### **2. Install Dependencies**
 Run the following command to install all required packages:
+
 npm install
 
 ### **3. Run the Application**
 Start the application by running:
 node app.js
+
 The app will now be running at http://localhost:3000.
 
 ### **4. View the Application**
