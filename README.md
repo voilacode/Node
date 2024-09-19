@@ -67,7 +67,11 @@ This is the entry point of the application. It sets up the server, the view engi
 This project is a starting point for building full-stack applications. You can easily expand it by:
 
 Adding more routes and controllers.
+
 Integrating a database (like MySQL, MongoDB or PostgreSQL).
+
 Incorporating user authentication.
+
 Building a REST API to serve data.
+
 Using frontend frameworks (e.g., React, Vue, or Angular) for the view layer.
