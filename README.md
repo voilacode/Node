@@ -66,7 +66,7 @@ Defines the route / and links it to the getHomePage function in the controller:
 ### 3. Main Application - app.js
 This is the entry point of the application. It sets up the server, the view engine (EJS), and the routing:
 
-# **Future Enhancements**
+## **Future Enhancements**
 
 This project is a starting point for building full-stack applications. You can easily expand it by:
 
