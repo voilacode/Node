@@ -75,3 +75,5 @@ Incorporating user authentication.
 Building a REST API to serve data.
 
 Using frontend frameworks (e.g., React, Vue, or Angular) for the view layer.
+
+# &copy; Voilacode Technologies.
